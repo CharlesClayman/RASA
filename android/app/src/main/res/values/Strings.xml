@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">road_safety</string>
+    <string name="facebook_app_id">925257384977455</string>
+<string name="fb_login_protocol_scheme">fb925257384977455</string>
+
+
+    <string name="mapbox_access_token" translatable="false">sk.eyJ1IjoiY2hhcmxlc2NsYXltYW4iLCJhIjoiY2tzYnhib2czMGIzeDJvb2QzdnA2cmxrMiJ9.Ou180NYH_53vVLXNtuLxkQ</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+</resources>

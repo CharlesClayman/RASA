@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "351971466922",
+    "project_id": "road-safety-app-f127e",
+    "storage_bucket": "road-safety-app-f127e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351971466922:android:87d21c25cd1fadf71c3ad3",
+        "android_client_info": {
+          "package_name": "com.example.road_safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351971466922-e6n1fa9na4sn78ol3jpdirqnd6gt10kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.road_safety",
+            "certificate_hash": "3f644b168f7b385d5b76cd77d9a9ab1c683043a0"
+          }
+        },
+        {
+          "client_id": "351971466922-ut2rfisjqk0v460ugf7ftrhu6bkogjui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchoSlvd7X5B1mGJ3urtU1kL11iVhR8tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351971466922-ut2rfisjqk0v460ugf7ftrhu6bkogjui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
